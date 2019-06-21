@@ -1,30 +1,31 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirpegon343.rk" resolutions="1x,2x" timestamp="1560920981980">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirpegon.rk" resolutions="1x,2x" timestamp="1561095673253">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3970296377" ref="index"/>
+    <file name="master_a-master.css" crc="348685362" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="431743530" ref="index"/>
-    <file name="index.css" crc="4090258259" ref="index"/>
+    <file name="index.css" crc="350421274" ref="index"/>
     <file name="nomq_index.css" crc="48101898" ref="index"/>
+    <file name="untitled-2.css" crc="22455492" ref="untitled-2"/>
   </folder>
   <folder name="assets">
     <file name="1200px-icc_cricket_world_cup_2019_logo.svg.webp" crc="4153194172" seo="true" mt="1560617727000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:untitled-2"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:untitled-2"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
     <file name="form-u8313.php" crc="86085009" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:untitled-2"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:untitled-2"/>
   </folder>
   <folder name="images">
     <file name="fg75x157.png" crc="174423988" seo="true" ref="index">
@@ -145,6 +146,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="red-4k-background-5.jpg" crc="3865738871" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="red-4k-background-5_2x.jpg" crc="72891446" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="128804119" seo="true" mt="1560920715292" redirect="true"/>
+  <file name="index.html" crc="2403532" seo="true" mt="1561095638968" redirect="true"/>
+  <file name="untitled-2.html" crc="3890518375" seo="true" mt="1561095593312" redirect="true"/>
 </manifest>
